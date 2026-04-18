@@ -1,2 +1,2 @@
 # PCP-Designee
-I designee a PCP to make work/glow 10 led in a unique designee of mustang car.
+I designed a PCB to make working glowing 10 leds in a unique designe of a mustang car.
